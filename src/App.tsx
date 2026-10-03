@@ -3,8 +3,8 @@ import { useEffect, useRef, useState } from "react";
 const VIDEO_SRC =
   "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260826_041744_63efcd78-bf7d-4039-99e2-2461e8a61903.mp4";
 const SENSITIVITY = 0.8;
-const EMAIL = "hello@mainframe.co";
-const INTRO = "Glad you stopped in. Good taste tends to find us. Now, what are we building?";
+const EMAIL = "reshad101410@gmail.com";
+const INTRO = "YOUR NEW MESSAGE HERE";
 const NAV_LINKS = ["Labs", "Studio", "Openings", "Shop"];
 const PILLS = ["Pitch us an idea", "Come work here", "Send a brief hello", "See how we operate"];
 
